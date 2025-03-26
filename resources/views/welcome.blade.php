@@ -16,6 +16,7 @@
     <li>Karyle</li>
     <li>Rox Gardoce</li>
     <li>This is footer</li>
+    <img />
 </body>
 
 </html>
