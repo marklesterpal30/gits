@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <nav>this is a navar</nav>
     <h1>hello world</h1>
     <p>am i going to be a developer</p>
     <li>Lester Maranan</li>
