@@ -14,6 +14,7 @@
     <li>Lester Maranan</li>
     <li>Karyle</li>
     <li>Rox Gardoce</li>
+    <li>This is footer</li>
 </body>
 
 </html>
