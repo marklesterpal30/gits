@@ -10,6 +10,7 @@
 
 <body>
     <h1>this is a modal</h1>
+    <h1>this is the user data</h1>
 </body>
 
 </html>
