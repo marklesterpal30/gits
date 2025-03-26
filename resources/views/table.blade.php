@@ -10,6 +10,7 @@
 
 <body>
     <h1>this is a table</h1>
+    <th>this is the tble ehader</th>
     <h1>this is the data</h1>
 </body>
 
